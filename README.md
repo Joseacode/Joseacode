@@ -1,6 +1,15 @@
 
 # 💫About Me :
-Me encuentro en la busqueda de trabajo. Acabo de terminar Henry donde me he podido prepararme como Full Stack Developer y creo que ya habiendo cumplido con todos los requisitos puedo decir que me siento preparado para dar elproximo paso, la busqueda laboral.
+Desde siempre me he encontrado cerca de la tecnología, en un principio dando servicios IT a las computadoras, y hoy amplio mi conocimiento dando una vuelta más de tuerca para llevar mi carrera y experiencia el campo de la programación, esta vez como desarrollador fullstack.
+ Todos estos nuevos conocimientos, Javascript, React. Redux, Nodejs, HTML, CSS. Python, Bases de Datos, Redes, me dan la autoconfianza necesaria que me permite situarme en el lugar que me interesa y continuar con la pasión que siempre he tenido. 
+
+Dentro de mis habilidades blandas puedo nombrar: proactividad, Trabajo en equipo, Resiliencia, Empatía, 
+Capacidad de recibir y dar feedback, Solución de problemas y conflictos. Entre otras.
+
+Contactarme:
+WhatsApp: +541133326174
+Telegram: t.me/joseamiroe
+email: josea_@hotmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jose.miro1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseamiro) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joseamiro) 
